@@ -1,5 +1,14 @@
-<p align='center'>♥ 两只为理想而奋斗的小可爱 ♥</p>
-<p align='center'>♥ Bingbo & Hanjie ♥</p>
+<p align='center'>
+  <font color='red'>♥ </font>
+  两只为理想而奋斗的小可爱
+  <font color='red'> ♥</font>
+</p>
+<p align='center'>
+  <font color='red'>♥ </font>
+  Bingbo & Hanjie
+  <font color='red'> ♥</font>
+</p>
+
 
 
 ## 1. Love，by Roy Croft
