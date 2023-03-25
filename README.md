@@ -1,4 +1,7 @@
-# Bingbo
+<p align='center'>♥ 两只为理想而奋斗的小可爱 ♥</p>
+<p align='center'>♥ Bingbo & Hanjie ♥</p>
+
+
 ## 1. Love，by Roy Croft
 I love you,
 <p>Not only for what you are,
